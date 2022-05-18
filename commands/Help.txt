@@ -1,0 +1,2 @@
+@client.command() >> @commands.command()
+@client.event >> @commands.Cog.listener()
